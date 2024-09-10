@@ -1,0 +1,10 @@
+./dataset/spoof1.mp4
+./dataset/spoof2.mp4
+./dataset/spoof3.mp4
+./dataset/spoof4.mp4
+./dataset/spoof5.mp4
+./dataset/spoof6.mp4
+./dataset/non-spoof1.mp4
+./dataset/non-spoof2.mp4
+./dataset/non-spoof3.mp4
+./dataset/non-spoof4.mp4
